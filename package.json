@@ -1,6 +1,6 @@
 {
   "name": "m8abrar-currency-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is my currency change  program.",
   "main": "index.js",
   "type": "module",
